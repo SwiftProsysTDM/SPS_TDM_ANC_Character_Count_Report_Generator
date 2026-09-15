@@ -33,7 +33,7 @@ import urllib.error
 # --------------------------------------------------------------------------
 # CONFIG — update this to your actual GitHub repo, e.g. "swiftprosys/tdm-billing-tool"
 # --------------------------------------------------------------------------
-GITHUB_REPO = "YOUR_GITHUB_USERNAME/YOUR_REPO_NAME"
+GITHUB_REPO = "SwiftProsysTDM/SPS_TDM_ANC_Character_Count_Report_Generator"
 GITHUB_API_LATEST = f"https://api.github.com/repos/{GITHUB_REPO}/releases/latest"
 REQUEST_TIMEOUT = 10  # seconds
 
